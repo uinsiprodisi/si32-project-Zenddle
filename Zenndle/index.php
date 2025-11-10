@@ -23,7 +23,7 @@ $data = json_decode($jason, TRUE);
         <td><?php echo $value['nim'] ?></td>
         <td><?php echo $value['nama'] ?></td>
     </tr>
-    <?php endforeach ??
+    <?php endforeach ?>
 
 </table>
 
